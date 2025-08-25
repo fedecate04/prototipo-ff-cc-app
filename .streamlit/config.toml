@@ -5,8 +5,8 @@ enableXsrfProtection = true
 
 [theme]
 base="dark"
-primaryColor="#E0A14A"         # ámbar (alerta)
-backgroundColor="#121417"       # gris grafito
+primaryColor="#E0A14A"
+backgroundColor="#121417"
 secondaryBackgroundColor="#1B1F24"
 textColor="#E8EDF2"
 font="sans serif"
